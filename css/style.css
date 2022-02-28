@@ -1,0 +1,38 @@
+body {
+  background-color: 
+  #d29777;
+
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" style="font-size: 25px;"><text y="25">  \2B50 </text></svg>'), auto;
+}
+
+h1{
+   text-align:center;
+}
+
+.navLinks .navItem{
+   display: inline;
+   font-size: 23px;
+   padding:  45px;
+           }
+a{
+ color:black;
+}
+           a:link {
+            color: black;
+            background-color:                    transparent;
+            text-decoration: none;
+           }
+
+           a:visited {
+           color:black;
+           background-color:                     transparent;
+           text-decoration: none;
+           }
+           
+           a:hover {
+           color: red;
+           background-color:                     transparent;
+           text-decoration:underline;
+           }
+
+          
