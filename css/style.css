@@ -48,7 +48,10 @@ p{
 }
 
 #meraki{
+    display: block;
     padding-left: 350px;
+    width:auto;
+    height: auto;
 }
 
 
